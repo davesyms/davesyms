@@ -5,5 +5,3 @@
 - 🌱 I’m currently learning NextJs
 - 💬 Ask me about Python, C#, and automation engineering.
 - 📫 How to reach me: davesyms@gmail.com
-
-![Davess GitHub stats](https://github-readme-stats.vercel.app/api?username=davesyms)
