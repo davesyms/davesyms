@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working at [Terkel](https://terkel.io/) as a Software Engineer.
 - 🌱 I’m currently learning NextJs
-- 💬 Ask me about Python, C#, and automation engineering.
-- 📫 How to reach me: davesyms@gmail.com
+- 💬 Ask me about Python, Automation Engineering, and Generative AIs.
+- 📫 How to reach me: davewsyms@gmail.com
